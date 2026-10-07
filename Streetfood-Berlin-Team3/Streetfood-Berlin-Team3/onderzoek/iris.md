@@ -5,7 +5,7 @@
 - **Waarom interessant voor CSD-studenten:** De locatie is fotogeniek, levendig en geschikt voor studenten die Berlijnse foodcultuur willen ontdekken.
 - **Open tussen 2 en 5 november?** Ja. De officiële website vermeldt openingstijden van maandag t/m woensdag 08:00–20:00 en donderdag 08:00–22:00.
 - **Kosten:** Bezoek zonder algemene entree; eten en drinken kosten afhankelijk van de gekozen aanbieder.
-- **Afstand vanaf het hotel:** Ongeveer 4 km hemelsbreed. Exacte route nog controleren.
+- **Afstand vanaf het hotel:** Ongeveer 4,5 km hemelsbreed. Exacte route nog controleren.
 - **Bronnen (links):** https://markthalleneun.de/ ; https://markthalleneun.de/en/ueber
 
 ## Afbeeldingen (dag 2)

@@ -9,7 +9,7 @@
 - Meegedacht over de groepsnaam Streetfood Berlin.
 
 **Met wie heb ik samengewerkt, en waaraan?**
-- Met Lars, Armin, Iris en Bilal aan de locatiekeuze en de eerste afspraken.
+- Met Lars, Armin, Iris en aan de locatiekeuze en de eerste afspraken.
 
 **Wat heb ik bijgedragen aan het team?**
 - Ik heb meegedacht over de keuze van de locatie en de inhoud van de website.
