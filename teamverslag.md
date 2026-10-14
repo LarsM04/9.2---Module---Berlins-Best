@@ -3,7 +3,7 @@
 ## Team
 | Naam | Git-gebruikersnaam | Ontwerptool | Onderdeel (dag 2) |
 | --- | --- | --- | --- |
-| Lars | nog invullen | Figma| nog invullen |
+| Lars | LarsM04 | Claude Design | nog invullen |
 | Armin | nog invullen | Figma | nog invullen |
 | Iris | irisxg | Figma | nog invullen |
 | Bilal | nog invullen | Figma | nog invullen |
@@ -52,7 +52,7 @@ Nog invullen als het team andere locaties heeft onderzocht.
 
 **Wie gebruikt welke ontwerptool?**
 
-We gebruiken allemaal figma
+Lars gebruikt Claude Design, Iris gebruikt Figma. Armin en Bilal: nog invullen.
 
 ---
 
