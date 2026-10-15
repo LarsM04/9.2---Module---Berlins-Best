@@ -9,13 +9,13 @@
 - Meegedacht over de groepsnaam Streetfood Berlin.
 
 **Met wie heb ik samengewerkt, en waaraan?**
-- Met Lars, Armin, Iris en aan de locatiekeuze en de eerste afspraken.
+- Met Lars en Armin aan de locatiekeuze en de eerste afspraken.
 
 **Wat heb ik bijgedragen aan het team?**
 - Ik heb meegedacht over de keuze van de locatie en de inhoud van de website.
 
 **Wat heb ik van een teamlid geleerd of gekregen?**
-- Nog aanvullen met een concreet voorbeeld uit de les.
+- Ik heb van Armin en Lars geleerd dat zij goed kunnen overleggen en compromissen kunnen sluiten. Dit had ik van tevoren niet verwacht. Door naar hun manier van overleggen te kijken, heb ik geleerd dat je naar elkaars ideeën kunt luisteren en samen tot een oplossing kunt komen waar iedereen tevreden mee is.
 
 **Hoe ging de samenwerking? Wat ging goed, wat kan beter?**
 - De samenwerking ging goed doordat iedereen ideeën kon geven. We moeten de taakverdeling de volgende les duidelijker maken.
