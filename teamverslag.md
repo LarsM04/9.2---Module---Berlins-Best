@@ -92,9 +92,11 @@ Tijdens de les hebben we de taken verdeeld. Lars en de andere teamleden gaan aan
 
 | Onderdeel | Verantwoordelijke |
 |---|---|
-| Header | Naam nog invullen |
-| Footer | Naam nog invullen |
+| Header | Iris|
+| Footer | Armin|
 | Tussenblokken en overige secties | Namen nog invullen na verdere uitwerking van het ontwerp |
+fotos armin
+kaart lars
 | Omschrijving en motivatie | Naam nog invullen |
 | Praktische informatie | Naam nog invullen |
 | Route en interactieve kaart | Naam nog invullen |
