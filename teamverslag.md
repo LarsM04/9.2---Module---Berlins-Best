@@ -3,7 +3,7 @@
 ## Team
 | Naam | Git-gebruikersnaam | Ontwerptool | Onderdeel (dag 2) |
 | --- | --- | --- | --- |
-| Lars | LarsM04 | Claude Design | nog invullen |
+| Lars | nog invullen | Figma| nog invullen |
 | Armin | nog invullen | Figma | nog invullen |
 | Iris | irisxg | Figma | nog invullen |
 | Bilal | nog invullen | Figma | nog invullen |
@@ -22,6 +22,7 @@
 **Gespreksleider:** Lars 
 **Notulist:** Armin  
 **Aanwezig:** Lars, Armin, Iris.
+**Opmerking:** Bilal kon niet fysiek aanwezig zijn, maar deed via de app mee met het overleg.
 
 **Gekozen groepsnaam en waarom:**
 
@@ -34,6 +35,7 @@ We hebben gekozen voor **Streetfood Berlin**, omdat de naam direct duidelijk maa
 **Gespreksleider:** Lars
 **Notulist:** Iris 
 **Aanwezig:** Lars, Armin, Iris.
+**Opmerking:** Bilal kon niet fysiek aanwezig zijn, maar deed via de app mee met het overleg.
 
 **Welke locatie kiezen we?**
 
@@ -52,22 +54,7 @@ Nog invullen als het team andere locaties heeft onderzocht.
 
 **Wie gebruikt welke ontwerptool?**
 
-Lars gebruikt Claude Design, Iris gebruikt Figma. Armin en Bilal: nog invullen.
-
----
-
-## Dag 1 – Overleg 2: ontwerp en tool
-**Gespreksleider:** nog invullen  
-**Notulist:** nog invullen  
-**Aanwezig:** nog invullen 
-
-**Welk ontwerp kiezen we, en waarom?**
-
-nog invullen 
-
-**Welke tool kiezen we, en waarom?**
-
-Nog invullen nadat iedereen de ontwerptools heeft vergeleken.
+We gebruiken allemaal figma
 
 ---
 
