@@ -1,9 +1,9 @@
 # Ontwerpen
 
-Voor onze website over Markthalle Neun gebruiken we Figma als ontwerptool. Alle teamleden kennen Figma al en hebben er eerder mee gewerkt.
+Voor onze website over Markthalle Neun gebruiken we Figma en claud als ontwerptool. Alle teamleden kennen Figma al en hebben er eerder mee gewerkt.
 
 ## Individuele ontwerpen
-Ieder teamlid maakt een eigen ontwerp voor de website en slaat dit op als afbeelding in deze map.
+Ieder teamlid maakt een eigen ontwerp voor de website en slaat dit op als afbeelding of link in deze map.
 
 - Lars: `lars-claude-design-desktop.png`
 - Armin: ?
