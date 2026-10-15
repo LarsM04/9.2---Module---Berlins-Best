@@ -1,14 +1,14 @@
 # Ontwerpen
 
-Voor onze website over Markthalle Neun gebruiken we Figma als ontwerptool. Alle teamleden kennen Figma al en hebben er eerder mee gewerkt.
+Voor onze website over Markthalle Neun gebruiken we Figma en claud als ontwerptool. Alle teamleden kennen Figma al en hebben er eerder mee gewerkt.
 
 ## Individuele ontwerpen
-Ieder teamlid maakt een eigen ontwerp voor de website en slaat dit op als afbeelding in deze map.
+Ieder teamlid maakt een eigen ontwerp voor de website en slaat dit op als afbeelding of link in deze map.
 
 - Lars: `lars-claude-design-desktop.png`
-- Armin: ?
+- Armin: (https://www.figma.com/design/ChVhnM3gWUo4o0mVQhVVbc/Untitled?node-id=2-1871&m=dev&t=TGLAxDHhbflYcxtI-1) 
 - Iris: https://www.figma.com/make/qj1bPAgno2M1ohYvPsjXrO/Streetfood-Berlin-website-design?t=cT3B7ywJF9YpbyPv-1
-- Bilal: ?
+- Bilal: https://www.figma.com/make/8SsMr65fy6F2QtaDhP3ceZ/Responsive-webpagina-Markthalle-Neun?t=a3bceoHhzeQOIHeM-20&fullscreen=1
 
 ## Gekozen ontwerp
 We vergelijken de individuele ontwerpen en kiezen samen het ontwerp dat het beste bij onze doelgroep past. We letten op de uitstraling, overzichtelijkheid, kleuren, leesbaarheid en gebruiksvriendelijkheid.
