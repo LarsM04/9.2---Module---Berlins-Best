@@ -69,7 +69,7 @@ We kiezen voor een modern, overzichtelijk ontwerp met grote foto's, duidelijke t
 
 **Welke tool kiezen we, en waarom?**
 
-We kiezen voor Figma, omdat alle teamleden weten hoe Figma werkt en het programma al vaker hebben gebruikt. Hierdoor kunnen we snel aan de slag met het ontwerp en makkelijk onze ontwerpen met elkaar delen en bespreken.
+We kiezen voor Figma en claud, omdat alle teamleden weten hoe Figma en claud werken en het programma al vaker hebben gebruikt. Hierdoor kunnen we snel aan de slag met het ontwerp en makkelijk onze ontwerpen met elkaar delen en bespreken.
 ---
 
 ## Dag 3 – Presentatie en feedback
