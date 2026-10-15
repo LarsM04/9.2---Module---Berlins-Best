@@ -23,3 +23,23 @@ wat was lastig: ik vond er niet iets lastig aan.
 
 Wat ga ik de volgende les doen?
 de onderdelen waar ik aan werk uitwerken.
+
+## Les [2] – [15-10-2026]
+
+Wat heb ik vandaag gedaan?
+Vandaag met het team de ontwerpen besproken. afspraken gemaakt over wie wat uit het ontwerp gaat maken. we hebben het ontwerp van iris gekozen. 
+
+Met wie heb ik samengewerkt, en waaraan?
+ik heb samen gewerkt met, bilal, iris, armin. we hebben samengewerkt door het bespreken welk ontwerp we gaan uitwerken afspraken maken over wie welk onderdeel gaat maken. ik ga het stukje praktische informatie maken en de interactieve kaart. 
+
+Wat heb ik bijgedragen aan het team?
+Het mee beslissen over het ontwerp en de afspraken over het werk.
+
+Wat heb ik van een teamlid geleerd of gekregen?
+nog invullen.
+
+Hoe ging de samenwerking? Wat ging goed, wat kan beter?
+Het samenwerken ging wel goed, we hebben afspraken gemaakt zodat we nu aan de slag kunnen met het bouwen van de website.
+
+Wat ga ik de volgende les doen?
+De volgende les zorg ik dat ik mijn stuk van de website helemaal af heb. ook moet al het werk van het team bij elkaar gevoegd worden. 
