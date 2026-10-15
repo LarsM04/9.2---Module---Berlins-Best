@@ -71,7 +71,7 @@ We gebruiken allemaal Figma. Iedereen maakt hiermee een ontwerp, zodat we de ont
 
 **Welk ontwerp kiezen we, en waarom?**
 
-We hebben vandaag samen het ontwerp voor onze website gekozen. We willen een modern en overzichtelijk ontwerp dat past bij Markthalle Neun en onze doelgroep. We letten op grote foto's, duidelijke typografie, passende kleuren en korte tekstblokken. De website moet ook goed werken op een smartphone.
+Het team heeft gezamenlijk besloten om Iris haar ontwerp te kiezen. We hebben voor dit ontwerp gekozen omdat het modern en overzichtelijk is en goed past bij Markthalle Neun en het onderwerp Streetfood Berlin. Het ontwerp gebruikt grote foto's, duidelijke typografie en passende kleuren. Ook houden we rekening met de weergave op mobiele telefoons.
 
 **Welke tool kiezen we, en waarom?**
 
@@ -81,34 +81,37 @@ We kiezen voor Figma en claude, omdat alle teamleden weten hoe deze programmas w
 
 ## Dag 2 – Taakverdeling en afbeeldingen
 
-**Gespreksleider:** Lars 
-**Notulist:** Iris
+**Gespreksleider:** Lars  
+**Notulist:** Iris  
 **Aanwezig:** Bilal, Lars, Armin en Iris.
- 
 
-### Wie doet welk onderdeel?
+### ontwerp en lay-out
 
-Tijdens de les hebben we de taken verdeeld. Lars en de andere teamleden gaan aan verschillende onderdelen van de website werken. We hebben afgesproken wie de header, footer en tussenblokken gaat maken. De precieze invulling van de tussenblokken en de definitieve taakverdeling moeten we nog vastleggen, omdat we eerst het gekozen ontwerp verder moeten uitwerken.
+Iris werkt de gekozen lay-out verder uit in HTML en CSS en js. De andere teamleden bouwen hun eigen onderdelen op basis van dit ontwerp, zodat de hele website één herkenbare stijl krijgt.
 
-| Onderdeel | Verantwoordelijke |
-|---|---|
-| Header | Iris|
-| Footer | Armin|
-| Tussenblokken en overige secties | Namen nog invullen na verdere uitwerking van het ontwerp |
-fotos armin
-kaart lars
-| Omschrijving en motivatie | Naam nog invullen |
-| Praktische informatie | Naam nog invullen |
-| Route en interactieve kaart | Naam nog invullen |
-| Slideshow in JavaScript | Naam nog invullen |
+### Definitieve taakverdeling website
+
+| Websiteblok | Verantwoordelijke | Werkzaamheden |
+|---|---|---|
+| 1. Header en navigatie | Iris | De header en basislay-out maken, het logo plaatsen, de navigatielinks toevoegen en het mobiele hamburgermenu vormgeven. |
+| 2. Hero / introductie | Armin | De introductiesectie opbouwen met de hoofdtitel, korte introductie en bijbehorende afbeelding. |
+| 3. Over de plek | Bilal | Markthalle Neun beschrijven en uitleggen waarom deze locatie interessant is voor studenten. |
+| 4. Slideshow / fotogalerij | Bilal | Minimaal zes passende afbeeldingen verzamelen en de slideshow voorbereiden. |
+| 5. Praktische informatie | Lars | De praktische informatie over de locatie overzichtelijk presenteren. |
+| 6. Route en interactieve kaart | Lars | De route vanaf Generator Berlin Mitte uitwerken en de interactieve kaart toevoegen. |
+| 7. Extra informatie | Iris | De aanvullende informatieblokken vormgeven en de voordelen van een bezoek aan Markthalle Neun beschrijven. |
+| 8. Bronnen en afbeeldingscredits | Iris | De gebruikte bronnen, afbeeldingsmakers en eventuele licenties vermelden. |
+| 9. Footer en teaminformatie | Armin | De footer maken met de groepsnaam, klas, teamleden en een link naar de overzichtspagina. |
+
+Iedereen werkt zoveel mogelijk in de eigen bestanden. We stemmen onderdelen met elkaar af wanneer ze op elkaar moeten aansluiten. Aan het einde van iedere les commit en pusht iedereen het eigen werk naar GitHub.
 
 ### Hoe hebben we de afbeeldingen op elkaar afgestemd?
 
-We zoeken afbeeldingen die passen bij Markthalle Neun en bij de stijl van ons gekozen ontwerp. We letten op kleurgebruik, beeldkwaliteit, uitsnede en verhouding. Ook controleren we de bron, maker en licentie van iedere afbeelding. We zorgen ervoor dat de afbeeldingen geschikt zijn voor het web en beschrijvende alt-teksten krijgen.
+We zoeken afbeeldingen die passen bij Markthalle Neun en bij de stijl van het gekozen ontwerp. We letten op kleurgebruik, beeldkwaliteit, uitsnede en verhouding. Ook controleren we de bron, maker en licentie van iedere afbeelding. De afbeeldingen moeten geschikt zijn voor het web en beschrijvende alt-teksten krijgen.
 
-### Stand-up: waar liepen we tegenaan, en wat hebben we afgesproken?
+### Stand-up: waar liepen we tegenaan en wat hebben we afgesproken?
 
-We moeten het ontwerp verder uitwerken voordat we precies weten hoeveel tussenblokken de website krijgt. Daarom leggen we de definitieve verdeling van die blokken later vast. We werken ondertussen aan onze eigen onderdelen en houden elkaar op de hoogte van de voortgang.
+We hebben afgesproken om het gekozen ontwerp als basis voor de hele website te gebruiken. Iris werkt aan de basislay-out en de header. De andere teamleden bouwen hun eigen onderdelen verder uit. We houden elkaar op de hoogte van de voortgang en stemmen de onderdelen af, zodat ze goed bij elkaar passen.
 
 ---
 
