@@ -8,7 +8,7 @@ Ieder teamlid maakt een eigen ontwerp voor de website en slaat dit op als afbeel
 - Lars: `lars-claude-design-desktop.png`
 - Armin: ?
 - Iris: https://www.figma.com/make/qj1bPAgno2M1ohYvPsjXrO/Streetfood-Berlin-website-design?t=cT3B7ywJF9YpbyPv-1
-- Bilal: https://www.figma.com/make/8SsMr65fy6F2QtaDhP3ceZ/Responsive-webpagina-Markthalle-Neun?t=a3bceoHhzeQOIHeM-20&fullscreen=1
+- Bilal: https://batch-fix-22151701.figma.site
 
 ## Gekozen ontwerp
 We vergelijken de individuele ontwerpen en kiezen samen het ontwerp dat het beste bij onze doelgroep past. We letten op de uitstraling, overzichtelijkheid, kleuren, leesbaarheid en gebruiksvriendelijkheid.
