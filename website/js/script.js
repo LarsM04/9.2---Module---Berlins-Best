@@ -57,7 +57,7 @@ const photos = [
   }
 ];
 
-let galleryImage = document.querySelector("#gallery-image");
+const galleryImage = document.querySelector("#gallery-image");
 const galleryCaption = document.querySelector("#gallery-caption");
 const photoNumber = document.querySelector("#photo-number");
 const previousButton = document.querySelector("#gallery-prev");
@@ -65,23 +65,16 @@ const nextButton = document.querySelector("#gallery-next");
 const progressBars = document.querySelectorAll(".progress span");
 
 let currentPhoto = 0;
-let isAnimating = false;
 
-const SLIDE_DURATION = 700; // moet gelijk zijn aan de transition in style.css
-
-// Laad alle foto's alvast, zodat de slide niet hapert
-photos.forEach((photo) => {
-  new Image().src = photo.src;
-});
-
-// direction: 1 = nieuwe foto komt van rechts, -1 = van links
-function showPhoto(index, direction = 1, animate = true) {
-  if (!galleryImage || !galleryCaption || isAnimating) return;
+function showPhoto(index) {
+  if (!galleryImage || !galleryCaption) return;
 
   currentPhoto = (index + photos.length) % photos.length;
 
   const photo = photos[currentPhoto];
 
+  galleryImage.src = photo.src;
+  galleryImage.alt = photo.alt;
   galleryCaption.textContent = photo.caption;
 
   if (photoNumber) {
@@ -91,87 +84,17 @@ function showPhoto(index, direction = 1, animate = true) {
   progressBars.forEach((bar, i) => {
     bar.classList.toggle("active", i === currentPhoto);
   });
-
-  // Zonder animatie (eerste keer laden of reduced motion)
-  if (!animate || reduceMotion.matches) {
-    galleryImage.src = photo.src;
-    galleryImage.alt = photo.alt;
-    return;
-  }
-
-  const oldImage = galleryImage;
-  const newImage = document.createElement("img");
-
-  newImage.src = photo.src;
-  newImage.alt = photo.alt;
-  newImage.style.transform = `translateX(${direction * 100}%)`;
-
-  oldImage.removeAttribute("id");
-  newImage.id = "gallery-image";
-  oldImage.after(newImage);
-  galleryImage = newImage;
-  isAnimating = true;
-
-  // Forceer een reflow zodat de transition start vanaf de beginpositie
-  newImage.getBoundingClientRect();
-
-  newImage.style.transform = "translateX(0)";
-  oldImage.style.transform = `translateX(${-direction * 100}%)`;
-
-  setTimeout(() => {
-    oldImage.remove();
-    isAnimating = false;
-  }, SLIDE_DURATION + 50);
 }
 
-// Automatische slideshow
-const AUTOPLAY_DELAY = 4000; // milliseconden per foto
-const galleryFrame = document.querySelector(".gallery-frame");
-const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
-
-let autoplayTimer = null;
-
-function startAutoplay() {
-  if (reduceMotion.matches) return;
-
-  stopAutoplay();
-  autoplayTimer = setInterval(() => {
-    showPhoto(currentPhoto + 1);
-  }, AUTOPLAY_DELAY);
-}
-
-function stopAutoplay() {
-  clearInterval(autoplayTimer);
-  autoplayTimer = null;
-}
-
-// Vorige foto (timer begint opnieuw na een handmatige klik)
+// Vorige foto
 previousButton?.addEventListener("click", () => {
-  showPhoto(currentPhoto - 1, -1);
-  startAutoplay();
+  showPhoto(currentPhoto - 1);
 });
 
 // Volgende foto
 nextButton?.addEventListener("click", () => {
   showPhoto(currentPhoto + 1);
-  startAutoplay();
 });
 
-// Pauzeer als de bezoeker de muis op de galerij houdt of de knoppen gebruikt
-galleryFrame?.addEventListener("mouseenter", stopAutoplay);
-galleryFrame?.addEventListener("mouseleave", startAutoplay);
-galleryFrame?.addEventListener("focusin", stopAutoplay);
-galleryFrame?.addEventListener("focusout", startAutoplay);
-
-// Pauzeer als het tabblad niet zichtbaar is
-document.addEventListener("visibilitychange", () => {
-  if (document.hidden) {
-    stopAutoplay();
-  } else {
-    startAutoplay();
-  }
-});
-
-// Toon de ingang meteen bij het laden van de pagina en start de slideshow
-showPhoto(0, 1, false);
-startAutoplay();
+// Toon de ingang meteen bij het laden van de pagina
+showPhoto(0);
