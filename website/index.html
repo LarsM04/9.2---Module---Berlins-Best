@@ -97,52 +97,94 @@
         </section>
 
         <!-- PRAKTISCHE INFORMATIE -->
-        <section id="info" class="wrap info-section">
-            <div class="kicker placeholder"></div>
-            <div class="section-title placeholder"></div>
+        <section id="info" class="wrap info-section" aria-labelledby="info-title">
+            <p class="kicker">03 / Praktisch</p>
+            <h2 id="info-title" class="section-title">GOED OM TE WETEN</h2>
 
             <div class="info-grid">
                 <article class="info-card">
-                    <div class="icon-placeholder"></div>
-                    <div class="card-title placeholder"></div>
-                    <div class="card-text placeholder"></div>
+                    <span class="info-icon" aria-hidden="true">⌖</span>
+                    <h3>ADRES</h3>
+                    <p>Eisenbahnstraße 42/43<br>10997 Berlin (Kreuzberg)</p>
+                    <p>Ongeveer 5 minuten lopen vanaf U-Bahnstation Görlitzer Bahnhof.</p>
                 </article>
 
                 <article class="info-card">
-                    <div class="icon-placeholder"></div>
-                    <div class="card-title placeholder"></div>
-                    <div class="card-text placeholder"></div>
+                    <span class="info-icon" aria-hidden="true">◷</span>
+                    <h3>OPENINGSTIJDEN</h3>
+                    <p>Maandag t/m woensdag<br>08:00 – 20:00</p>
+                    <p>Donderdag<br>08:00 – 22:00</p>
                 </article>
 
                 <article class="info-card accent-card">
-                    <div class="icon-placeholder"></div>
-                    <div class="card-title placeholder"></div>
-                    <div class="card-text placeholder"></div>
+                    <span class="info-icon" aria-hidden="true">★</span>
+                    <h3>STREET FOOD THURSDAY</h3>
+                    <p>Elke donderdag van 17:00 tot 22:00 staan er extra kraampjes met streetfood uit de hele wereld.</p>
+                    <p>Tip: ga op donderdag 5 november!</p>
                 </article>
 
                 <article class="info-card">
-                    <div class="icon-placeholder"></div>
-                    <div class="card-title placeholder"></div>
-                    <div class="card-text placeholder"></div>
+                    <span class="info-icon" aria-hidden="true">€</span>
+                    <h3>KOSTEN</h3>
+                    <p>Geen entree. Je betaalt alleen voor wat je eet en drinkt.</p>
+                    <p>Je bepaalt dus zelf hoeveel je uitgeeft.</p>
                 </article>
             </div>
         </section>
 
         <!-- ROUTE EN KAART -->
-        <section id="route" class="route-section">
+        <section id="route" class="route-section" aria-labelledby="route-title">
             <div class="wrap">
-                <div class="kicker placeholder"></div>
-                <div class="route-title placeholder"></div>
+                <p class="kicker">04 / Route</p>
+                <h2 id="route-title" class="route-title">ZO KOM<br>JE <span>ER</span></h2>
 
                 <div class="route-grid">
-                    <div class="map-placeholder placeholder"></div>
+                    <div class="map-panel">
+                        <iframe title="Kaart van Markthalle Neun in Berlijn"
+                            src="https://www.google.com/maps?q=Markthalle+Neun,+Eisenbahnstra%C3%9Fe+42,+10997+Berlin&output=embed"
+                            loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
 
                     <div class="route-card">
-                        <div class="route-stop placeholder"></div>
+                        <div class="route-stop">
+                            <span class="stop-dot">A</span>
+                            <div>
+                                <strong>Generator Berlin Mitte</strong>
+                                <p>Loop naar U-Bahnstation Oranienburger Tor en neem de U6 richting Alt-Mariendorf.</p>
+                            </div>
+                        </div>
+
                         <div class="route-line"></div>
-                        <div class="route-stop placeholder"></div>
-                        <div class="route-details placeholder"></div>
-                        <div class="route-button placeholder"></div>
+
+                        <div class="route-stop">
+                            <span class="stop-dot">↻</span>
+                            <div>
+                                <strong>Overstappen bij Hallesches Tor</strong>
+                                <p>Neem de U1 richting Warschauer Straße en stap uit bij Görlitzer Bahnhof.</p>
+                            </div>
+                        </div>
+
+                        <div class="route-line"></div>
+
+                        <div class="route-stop">
+                            <span class="stop-dot">B</span>
+                            <div>
+                                <strong>Markthalle Neun</strong>
+                                <p>Vanaf Görlitzer Bahnhof is het nog ongeveer 5 minuten lopen.</p>
+                            </div>
+                        </div>
+
+                        <div class="route-details">
+                            <p><strong>Reistijd:</strong> ongeveer 25 – 30 minuten</p>
+                            <p><strong>Afstand:</strong> ongeveer 4,5 km</p>
+                        </div>
+
+                        <a class="pill-button route-link"
+                            href="https://www.google.com/maps/dir/?api=1&amp;origin=Generator+Berlin+Mitte&amp;destination=Markthalle+Neun+Berlin&amp;travelmode=transit"
+                            target="_blank" rel="noopener noreferrer">
+                            <span>Plan je route</span>
+                            <span aria-hidden="true">↗</span>
+                        </a>
                     </div>
                 </div>
             </div>

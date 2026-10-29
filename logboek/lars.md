@@ -46,3 +46,24 @@ De samenwerking ging goed. We hebben duidelijke afspraken gemaakt, zodat we nu a
 - De route vanaf het hotel uitwerken en de interactieve kaart toevoegen.
 - Zorgen dat mijn onderdelen aansluiten op de lay-out van Iris.
 - Helpen om al het werk van het team bij elkaar te voegen.
+
+## Les [3] – [29-10-2026]
+
+**Wat heb ik vandaag gedaan?**
+Vandaag heb ik mijn deel van de website gemaakt. Bij Praktische informatie staan nu vier blokjes: het adres, de openingstijden, Street Food Thursday en de kosten. Bij Route staat een kaart van Google Maps en de route vanaf ons hotel: met de U6 naar Hallesches Tor, daar overstappen op de U1 en uitstappen bij Görlitzer Bahnhof. Er is ook een knop om de route te openen in Google Maps. Daarna heb ik gecheckt of de kaart en de knop werken en of het er op mijn telefoon ook goed uitziet. De openingstijden heb ik vergeleken met de officiële website van Markthalle Neun.
+
+**Met wie heb ik samengewerkt, en waaraan?**
+Ik heb verder gebouwd op de basis die Iris had gemaakt. Mijn blokken passen in haar lay-out, zodat de website één stijl heeft.
+
+**Wat heb ik bijgedragen aan het team?**
+Ik heb de blokken Praktische informatie en Route en interactieve kaart gemaakt.
+
+**Wat heb ik van een teamlid geleerd of gekregen?**
+We hadden het ontwerp van Iris gekozen, dus ik heb mijn deel nagebouwd volgens haar ontwerp. Zo wist ik precies hoe mijn blokken eruit moesten zien en past alles bij elkaar.
+
+**Hoe ging de samenwerking? Wat ging goed, wat kan beter?**
+De samenwerking ging goed. Iedereen weet wat hij moet maken. Wat beter kan, is dat nog niet alle onderdelen van de website af zijn.
+
+**Wat ga ik de volgende les doen?**
+- Al het werk van het team bij elkaar mergen en testen of alles goed werkt.
+- De presentatie voorbereiden.
