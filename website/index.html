@@ -54,47 +54,91 @@
         </section>
 
         <!-- OVER DE PLEK -->
-        <section id="over" class="intro-section">
+        <section id="over" class="intro-section" aria-labelledby="over-title">
             <div class="wrap">
-                <div class="kicker placeholder"></div>
+                <p class="kicker">01 / Over de plek</p>
 
                 <div class="intro-grid">
-                    <div class="big-heading placeholder"></div>
+                    <h2 id="over-title" class="big-heading">
+                        MEER DAN<br>ALLEEN ETEN.
+                    </h2>
 
                     <div class="intro-content">
-                        <div class="text-lines"></div>
-                        <div class="text-lines"></div>
-                        <div class="stat-placeholder"></div>
-                        <div class="stat-placeholder"></div>
+                        <p>
+                            Markthalle Neun is een historische overdekte markthal
+                            in de wijk Kreuzberg in Berlijn. Je vindt er verschillende
+                            marktkramen, verse producten, bakkerijen en eetgelegenheden.
+                        </p>
+
+                        <p>
+                            Wij hebben deze plek gekozen omdat je er veel verschillende
+                            soorten streetfood kunt ontdekken en de sfeer van Berlijn
+                            kunt ervaren. Het is een leuke plek om met vrienden te
+                            bezoeken, omdat iedereen iets anders kan kiezen.
+                        </p>
+
+                        <div class="stat">
+                            <strong>1891</strong>
+                            <span>Het jaar waarin de historische markthal opende.</span>
+                        </div>
+
+                        <div class="stat">
+                            <strong>Streetfood</strong>
+                            <span>Proef verschillende gerechten en ontdek nieuwe smaken.</span>
+                        </div>
                     </div>
                 </div>
             </div>
         </section>
 
+
         <!-- SLIDESHOW / FOTO'S -->
-        <section class="gallery-section">
+        <section id="fotos" class="gallery-section" aria-labelledby="gallery-title">
             <div class="wrap">
                 <div class="gallery-heading">
                     <div>
-                        <div class="kicker placeholder"></div>
-                        <div class="gallery-title placeholder"></div>
+                        <p class="kicker">02 / Sfeerimpressie</p>
+                        <h2 id="gallery-title" class="gallery-title">KIJK ROND.</h2>
                     </div>
-                    <div class="counter placeholder"></div>
+                    <p class="counter"><span id="photo-number">01</span> / 06</p>
                 </div>
 
-                <div class="gallery-frame placeholder">
+                <div class="gallery-frame">
+                    <img id="gallery-image" src="img/markthalle-3.jpg" alt="De ingang van Markthalle Neun in Berlijn">
+
                     <div class="gallery-bottom">
-                        <div class="caption-placeholder"></div>
-                        <div class="controls-placeholder"></div>
+                        <p id="gallery-caption" class="gallery-caption">
+                            De ingang
+                        </p>
+
+                        <div class="gallery-controls">
+                            <button id="gallery-prev" type="button" aria-label="Vorige foto">←</button>
+                            <button id="gallery-next" type="button" aria-label="Volgende foto">→</button>
+                        </div>
                     </div>
                 </div>
 
-                <div class="progress">
-                    <span></span><span></span><span></span>
-                    <span></span><span></span><span></span>
+                <div class="progress" aria-hidden="true">
+                    <span class="active"></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
                 </div>
+
+                <p class="photo-credit">
+                    Foto's: Tripadvisor-bezoekers.
+                    <a href="https://www.tripadvisor.nl/LocationPhotoDirectLink-g187323-d7085686-i249586567-Markthalle_Neun-Berlin.html"
+                        target="_blank" rel="noopener noreferrer">
+                        Bekijk de originele foto van de markthal op Tripadvisor.
+                    </a>
+                </p>
             </div>
         </section>
+
+
+
 
         <!-- PRAKTISCHE INFORMATIE -->
         <section id="info" class="wrap info-section" aria-labelledby="info-title">
@@ -225,6 +269,7 @@
 
 
 
+
         <!-- BRONNEN EN AFBEELDINGSCREDITS -->
         <section class="sources-section" aria-labelledby="sources-title">
             <div class="wrap">
@@ -237,8 +282,8 @@
                         <span class="source-arrow" aria-hidden="true">↗</span>
                     </a>
 
-                    <a class="source-row" href="https://unsplash.com/" target="_blank" rel="noopener noreferrer">
-                        <span>FOTOGRAFIE VIA UNSPLASH</span>
+                    <a class="source-row" href="https://www.tripadvisor.com/" target="_blank" rel="noopener noreferrer">
+                        <span>FOTOGRAFIE VIA TRIPADVISOR</span>
                         <span class="source-arrow" aria-hidden="true">↗</span>
                     </a>
 
@@ -247,14 +292,15 @@
                         <p>Vul hier de namen van de fotografen in.</p>
                     </div>
 
-                    <a class="source-row source-details" href="https://unsplash.com/license" target="_blank"
+                    <a class="source-row source-details" href="https://www.tripadvisor.com/" target="_blank"
                         rel="noopener noreferrer">
-                        <span>LICENTIES</span>
-                        <span>UNSPLASH LICENSE ↗</span>
+                        <span>FOTOBRONNEN</span>
+                        <span>TRIPADVISOR ↗</span>
                     </a>
                 </div>
             </div>
         </section>
+
 
 
 

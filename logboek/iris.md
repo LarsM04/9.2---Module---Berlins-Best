@@ -70,3 +70,49 @@
 - Controleren of de onderdelen van de andere teamleden goed aansluiten op mijn ontwerp.
 - De website verder controleren en waar nodig aanpassingen doen.
 - Mijn werk opslaan, een duidelijke commit maken en mijn wijzigingen naar GitHub pushen.
+
+# Logboek – Iris
+
+## Les 3 – 28 of 29 oktober
+
+### Wat heb ik vandaag gedaan?
+
+- Ik heb verder gewerkt aan de website voor Streetfood Berlin.
+- Ik heb de taken van Bilal opgepakt, omdat ik zijn onderdeel verder moest uitwerken van het team omdat hij er niet was hij is uiteindelijk later gekomen maar niks laten weten aan het groepje.
+- Ik heb de sectie **‘Over de plek’** uitgewerkt met informatie over Markthalle Neun en waarom we deze locatie hebben gekozen.
+- Ik heb gewerkt aan de slideshow met foto's van Markthalle Neun.
+- Ik heb de HTML en JavaScript van de slideshow aangepast, zodat de foto's, bijschriften en navigatie goed op elkaar aansluiten.
+- Ik heb gewerkt aan de bronvermelding voor de foto's en de website.
+
+### Met wie heb ik samengewerkt, en waaraan?
+
+- Ik heb aan mijn eigen onderdelen van de website gewerkt.
+- Ik heb de taken van Bilal overgenomen en verder uitgewerkt.
+
+### Wat heb ik bijgedragen aan het team?
+
+- Ik heb extra werk opgepakt door de onderdelen van Bilal uit te werken.
+- Ik heb de sectie ‘Over de plek’ toegevoegd en de informatie over Markthalle Neun uitgewerkt.
+- Ik heb de slideshow verder opgebouwd en de code aangepast om de foto's in de juiste volgorde te tonen.
+- Ik heb bijgedragen aan de inhoud en de afwerking van de website.
+
+### Wat heb ik van een teamlid geleerd of gekregen?
+
+- Ik heb ervaren dat het belangrijk is om flexibel te zijn binnen een team. Als een teamlid zijn taken niet kan uitvoeren, moet het werk toch verdergaan.
+- Ik heb geleerd om HTML en JavaScript beter op elkaar af te stemmen, zodat de juiste foto en het juiste bijschrift worden weergegeven.
+
+### Hoe ging de samenwerking? Wat ging goed, wat kan beter?
+
+- Ik heb zelfstandig aan de onderdelen gewerkt die nog moesten worden uitgewerkt.
+- Het was een extra uitdaging om de taken van Bilal over te nemen naast mijn eigen werkzaamheden.
+- Ik moet nog controleren of alle onderdelen goed op elkaar aansluiten en of de slideshow bij het verversen en gebruiken goed werkt.
+
+### Wat ga ik de volgende les doen?
+
+- De website verder testen op een smartphone en een desktop.
+- Controleren of de HTML en CSS goed gevalideerd zijn en of er fouten in de console staan.
+- Controleren of alle afbeeldingen alt-teksten hebben en of de bronvermelding en makers op de website staan.
+- Controleren of alle paden relatief zijn en of de link naar de overzichtspagina werkt.
+- Feedback van de presentatie verwerken als dat nog nodig is.
+- De website controleren, de laatste wijzigingen committen en naar GitHub pushen.
+- Controleren of de map `website/` compleet is en mijn bijdrage voorbereiden voor het gesprek met mijn SLB-docent.
