@@ -176,13 +176,30 @@ h3 {
   text-transform: uppercase;
 }
 
-.hero-title {
+.hero-title-row {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 1rem;
   margin-bottom: 2.5rem;
+}
+
+.hero-dot {
+  flex-shrink: 0;
+  width: clamp(44px, 8.5vw, 71px);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: var(--orange);
+}
+
+.hero-title {
   font-family: var(--display);
-  font-size: clamp(7rem, 22vw, 20rem);
+  /* 17vw houdt MARKTHALLE + de stip op elke schermbreedte binnen beeld */
+  min-width: 0;
+  font-size: clamp(3.5rem, 17vw, 16rem);
   font-weight: 900;
   letter-spacing: -0.055em;
-  line-height: 0.68;
+  line-height: 0.82;
 }
 
 .hero-title span {
@@ -199,6 +216,7 @@ h3 {
 }
 
 .tagline {
+  margin: 0;
   max-width: 13ch;
   font-family: var(--display);
   font-size: clamp(1.8rem, 3vw, 3rem);
@@ -230,13 +248,69 @@ h3 {
   transform: translateY(-2px);
 }
 
+.pill-button:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 3px;
+}
+
 .hero-image {
+  position: relative;
   width: 100%;
   height: clamp(25rem, 58vw, 48rem);
   margin-top: 4rem;
-  object-fit: cover;
+  overflow: hidden;
   border-radius: 2rem;
   background: #c7b8a6;
+}
+
+.hero-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* donkere verloop onderin, zodat de witte tekst leesbaar blijft */
+.hero-image::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgb(0 0 0 / 45%), transparent 35%);
+  pointer-events: none;
+}
+
+.hero-caption {
+  position: absolute;
+  left: 1.5rem;
+  bottom: 1.4rem;
+  z-index: 1;
+  max-width: 15rem;
+  margin: 0;
+  color: #fff;
+  font-size: 0.85rem;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.hero-tag {
+  position: absolute;
+  right: 1.25rem;
+  bottom: 1.25rem;
+  z-index: 1;
+  padding: 0.5rem 1rem;
+  border: 1px solid #fff;
+  border-radius: 999px;
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.hero-tag:hover,
+.hero-tag:focus-visible {
+  background: #fff;
+  color: var(--ink);
 }
 
 /* INTRODUCTIE */
@@ -700,6 +774,7 @@ a.source-row:hover {
   font-weight: 900;
   line-height: 0.75;
   letter-spacing: -0.04em;
+  margin: 0;
 }
 
 .footer-team {
@@ -731,6 +806,25 @@ a.source-row:hover {
   margin: 0;
 }
 
+.back-link {
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.back-link:hover {
+  color: var(--orange-light);
+}
+
+.back-link:focus-visible {
+  outline: 2px solid var(--orange-light);
+  outline-offset: 4px;
+}
+
+.footer-note {
+  opacity: 0.6;
+}
+
 /* TABLET */
 @media (max-width: 1000px) {
   .header-inner {
@@ -757,10 +851,6 @@ a.source-row:hover {
   .map-panel,
   .map-panel iframe {
     min-height: 25rem;
-  }
-
-  .hero-title {
-    font-size: clamp(7rem, 20vw, 13rem);
   }
 
   .extra-section {
@@ -827,9 +917,8 @@ a.source-row:hover {
     display: none;
   }
 
-  .hero-title {
+  .hero-title-row {
     margin-bottom: 2rem;
-    font-size: clamp(6rem, 25vw, 11rem);
   }
 
   .hero-intro {
@@ -845,6 +934,17 @@ a.source-row:hover {
     height: 25rem;
     margin-top: 2rem;
     border-radius: 1.25rem;
+  }
+
+  .hero-caption {
+    left: 1rem;
+    bottom: 3.75rem;
+  }
+
+  .hero-tag {
+    right: auto;
+    left: 1rem;
+    bottom: 1rem;
   }
 
   .intro-section,
@@ -979,10 +1079,6 @@ a.source-row:hover {
   .menu-toggle {
     width: 40px;
     height: 38px;
-  }
-
-  .hero-title {
-    font-size: 5.5rem;
   }
 }
 
