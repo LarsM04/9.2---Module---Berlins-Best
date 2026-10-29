@@ -2,44 +2,68 @@
 
 ## Les [1] – [07-10-2026]
 
-Wat heb ik vandaag gedaan?
-github aangemaakt en iedereen toegevoegd als collaborator. daarna heb ik mijn onderzoek gedaan naar twee locaties: Curry 36 en Burgermeister. ook heb ik twee afbeeldingen van Markthalle Neun gezocht met bron, maker en licentie. als laatste heb ik mijn eigen ontwerp van de webpagina gemaakt met Claude Design, een mobiele versie en een desktop versie.
+**Wat heb ik vandaag gedaan?**
+Ik heb de GitHub-repository aangemaakt en iedereen toegevoegd als collaborator. Daarna heb ik onderzoek gedaan naar twee locaties: Curry 36 en Burgermeister. Ook heb ik twee afbeeldingen van Markthalle Neun gezocht, met bron, maker en licentie. Als laatste heb ik mijn eigen ontwerp van de webpagina gemaakt met Claude Design: een mobiele versie en een desktopversie.
 
-Met wie heb ik samengewerkt, en waaraan?
-ik heb samengewerkt met Iris en armin vandaag. we hebben afspraken gemaakt over de opdracht wat het onderwerp is. 
+**Met wie heb ik samengewerkt, en waaraan?**
+Ik heb vandaag samengewerkt met Iris en Armin. We hebben afspraken gemaakt over de opdracht en over wat het onderwerp wordt.
 
-Wat heb ik bijgedragen aan het team?
-meedenken met de keuzes binnen het team, de git repo aangemaakt. ook was ik gespreksleider bij de overleggen en heb ik een ontwerp gemaakt waar het team uit kan kiezen.
+**Wat heb ik bijgedragen aan het team?**
+Ik heb meegedacht over de keuzes binnen het team en de GitHub-repository aangemaakt. Ook was ik gespreksleider bij de overleggen en heb ik een ontwerp gemaakt waar het team uit kan kiezen.
 
-Wat heb ik van een teamlid geleerd of gekregen?
-voor deze les nog niet iets.
+**Wat heb ik van een teamlid geleerd of gekregen?**
+Voor deze les nog niets.
 
-Hoe ging de samenwerking? Wat ging goed, wat kan beter?
-de samenwerking ging nu goed er zijn al duidelijke afspraken gemaakt. wat beter kan is dat nog niet iedereen zijn onderzoek en ontwerp af heeft, dat moet voor de volgende les gebeuren.
+**Hoe ging de samenwerking? Wat ging goed, wat kan beter?**
+De samenwerking ging goed, er zijn al duidelijke afspraken gemaakt. Wat beter kan, is dat nog niet iedereen zijn onderzoek en ontwerp af heeft. Dat moet voor de volgende les gebeuren.
 
-Ervaring met de ontwerptool (Claude Design)
-wat ging goed: het werkte eigenlijk heel simpel. je kan kiezen wat voor ontwerp je wilt maken en daar schrijf je dan een prompt voor. het heeft het design precies zo gemaakt zoals ik vroeg.
-wat was lastig: ik vond er niet iets lastig aan.
+**Ervaring met de ontwerptool (Claude Design)**
+- Wat ging goed: het werkte heel simpel. Je kiest wat voor ontwerp je wilt maken en daar schrijf je een prompt voor. Het ontwerp werd precies zo gemaakt als ik vroeg.
+- Wat was lastig: ik vond er niets lastig aan.
 
-Wat ga ik de volgende les doen?
-de onderdelen waar ik aan werk uitwerken.
+**Wat ga ik de volgende les doen?**
+De onderdelen waar ik aan werk verder uitwerken.
 
 ## Les [2] – [15-10-2026]
 
-Wat heb ik vandaag gedaan?
-Vandaag met het team de ontwerpen besproken. afspraken gemaakt over wie wat uit het ontwerp gaat maken. we hebben het ontwerp van iris gekozen. 
+**Wat heb ik vandaag gedaan?**
+Vandaag heb ik met het team de ontwerpen besproken. We hebben het ontwerp van Iris gekozen en afspraken gemaakt over wie welk onderdeel van de website gaat maken.
 
-Met wie heb ik samengewerkt, en waaraan?
-ik heb samen gewerkt met, bilal, iris, armin. we hebben samengewerkt door het bespreken welk ontwerp we gaan uitwerken afspraken maken over wie welk onderdeel gaat maken. ik ga het stukje praktische informatie maken en de interactieve kaart. 
+**Met wie heb ik samengewerkt, en waaraan?**
+Ik heb samengewerkt met Bilal, Iris en Armin. We hebben samen gekozen welk ontwerp we gaan uitwerken en de taken verdeeld. Ik maak het blok Praktische informatie en het blok Route en interactieve kaart, met de route vanaf het hotel Generator Berlin Mitte naar Markthalle Neun.
 
-Wat heb ik bijgedragen aan het team?
+**Wat heb ik bijgedragen aan het team?**
 Het mee beslissen over het ontwerp en de afspraken over het werk.
 
-Wat heb ik van een teamlid geleerd of gekregen?
-nog invullen.
+**Wat heb ik van een teamlid geleerd of gekregen?**
+Toen we de ontwerpen vergeleken, zag ik dat mijn eigen ontwerp er wat simpel uitzag en minder sfeer had. Het ontwerp van Iris heeft een betere uitstraling. Daar heb ik van geleerd dat foto's, kleuren en sfeer veel uitmaken voor hoe een website overkomt.
 
-Hoe ging de samenwerking? Wat ging goed, wat kan beter?
-Het samenwerken ging wel goed, we hebben afspraken gemaakt zodat we nu aan de slag kunnen met het bouwen van de website.
+**Hoe ging de samenwerking? Wat ging goed, wat kan beter?**
+De samenwerking ging goed. We hebben duidelijke afspraken gemaakt, zodat we nu aan de slag kunnen met het bouwen van de website. Er is op dit moment nog niet echt een verbeterpunt.
 
-Wat ga ik de volgende les doen?
-De volgende les zorg ik dat ik mijn stuk van de website helemaal af heb. ook moet al het werk van het team bij elkaar gevoegd worden. 
+**Wat ga ik de volgende les doen?**
+- De praktische informatie maken, zoals het adres, de openingstijden en de prijzen.
+- De route vanaf het hotel uitwerken en de interactieve kaart toevoegen.
+- Zorgen dat mijn onderdelen aansluiten op de lay-out van Iris.
+- Helpen om al het werk van het team bij elkaar te voegen.
+
+## Les [3] – [29-10-2026]
+
+**Wat heb ik vandaag gedaan?**
+Vandaag heb ik mijn deel van de website gemaakt. Bij Praktische informatie staan nu vier blokjes: het adres, de openingstijden, Street Food Thursday en de kosten. Bij Route staat een kaart van Google Maps en de route vanaf ons hotel: met de U6 naar Hallesches Tor, daar overstappen op de U1 en uitstappen bij Görlitzer Bahnhof. Er is ook een knop om de route te openen in Google Maps. Daarna heb ik gecheckt of de kaart en de knop werken en of het er op mijn telefoon ook goed uitziet. De openingstijden heb ik vergeleken met de officiële website van Markthalle Neun.
+
+**Met wie heb ik samengewerkt, en waaraan?**
+Ik heb verder gebouwd op de basis die Iris had gemaakt. Mijn blokken passen in haar lay-out, zodat de website één stijl heeft.
+
+**Wat heb ik bijgedragen aan het team?**
+Ik heb de blokken Praktische informatie en Route en interactieve kaart gemaakt.
+
+**Wat heb ik van een teamlid geleerd of gekregen?**
+We hadden het ontwerp van Iris gekozen, dus ik heb mijn deel nagebouwd volgens haar ontwerp. Zo wist ik precies hoe mijn blokken eruit moesten zien en past alles bij elkaar.
+
+**Hoe ging de samenwerking? Wat ging goed, wat kan beter?**
+De samenwerking ging goed. Iedereen weet wat hij moet maken. Wat beter kan, is dat nog niet alle onderdelen van de website af zijn.
+
+**Wat ga ik de volgende les doen?**
+- Al het werk van het team bij elkaar mergen en testen of alles goed werkt.
+- De presentatie voorbereiden.
