@@ -806,21 +806,6 @@ a.source-row:hover {
   margin: 0;
 }
 
-.back-link {
-  font-weight: 700;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-}
-
-.back-link:hover {
-  color: var(--orange-light);
-}
-
-.back-link:focus-visible {
-  outline: 2px solid var(--orange-light);
-  outline-offset: 4px;
-}
-
 .footer-note {
   opacity: 0.6;
 }
